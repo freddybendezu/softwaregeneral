@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.softwaregeneral.service.cliente.ClienteServicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.127 sec - in com.softwaregeneral.service.cliente.ClienteServicesApplicationTests

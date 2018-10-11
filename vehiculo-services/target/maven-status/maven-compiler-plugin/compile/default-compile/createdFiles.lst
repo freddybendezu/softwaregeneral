@@ -1,0 +1,4 @@
+com\softwaregeneral\services\vehiculo\VehiculoController.class
+com\softwaregeneral\services\vehiculo\VehiculoRepository.class
+com\softwaregeneral\services\vehiculo\VehiculoServicesApplication.class
+com\softwaregeneral\services\vehiculo\Vehiculo.class
